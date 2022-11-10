@@ -26,6 +26,6 @@ Analisando os pedidos 92,85% das compras são entregues no prazo, o tempo médio
 
 **Conclusão:** A partir dessa análise os resultados mostram que o e-commerce tem uma porcentagem boa de pedidos entregues no prazo, mas que diminuiu com o passar dos anos, então é um campo para implementar melhorias. Além de analisar com detalhes as categorias e meses que tem menos faturamento.
 
-Para maiores informações acesse: https://app.powerbi.com/view?r=eyJrIjoiYzNiZGM3NDUtOTUxNC00OTYzLWJkN2ItY2RhODMwNDIwYWJhIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9&pageName=ReportSection1c21b3c70336de3b0299
+Para maiores informações acesse: https://app.powerbi.com/view?r=eyJrIjoiYzNiZGM3NDUtOTUxNC00OTYzLWJkN2ItY2RhODMwNDIwYWJhIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9&pageName=ReportSection6268f799b7ba7518cc5b
 
 Projeto desenvolvido no curso "Data Insights" do Programa Dominando Data Science 3.0 oferecido pela FLAI - Inteligência Artificial e Data Science. 
