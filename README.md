@@ -24,7 +24,7 @@ Na análise logística de pedidos foram analisadas as seguintes variáveis: a po
 
 Analisando os pedidos 92,85% das compras são entregues no prazo, o tempo médio de entrega é de 12 dias, e a taxa de pedidos cancelados é de 0,63%. Analisando no decorrer dos anos nota-se que a porcentagem de pedidos entregues no prazo está diminuindo. Em 2016 foi de 98,78%, em 2017 de 93,62% e em 2018 de 90,84%. Na situação de pedido temos que 96,478 mil pedidos já forma entregues, 1106 pedidos estão em percurso e 461 foram cancelados. E o estado que mais tem pedido é SP.
 
-**Conclusão:** A partir dessa análise os resultados mostram que o e-commerce tem uma porcentagem boa de pedidos entregues no prazo, mas que diminuiu com o passar dos anos, então é um campo para implementar melhorias. Além de analisar com detalhes as categorias e meses que menos vendem.
+**Conclusão:** A partir dessa análise os resultados mostram que o e-commerce tem uma porcentagem boa de pedidos entregues no prazo, mas que diminuiu com o passar dos anos, então é um campo para implementar melhorias. Além de analisar com detalhes as categorias e meses que tem menos faturamento.
 
 Para maiores informações acesse: https://app.powerbi.com/view?r=eyJrIjoiYzNiZGM3NDUtOTUxNC00OTYzLWJkN2ItY2RhODMwNDIwYWJhIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9&pageName=ReportSection1c21b3c70336de3b0299
 
