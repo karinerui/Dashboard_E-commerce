@@ -7,7 +7,7 @@ Fazer a gestão financeira e de logística é necessária para manter uma empres
 
 **Objetivo:** Fazer uma análise financeira de todas as compras no e-commerce (ticket médio, faturamento, variação percentual) e uma análise dos pedidos (dias com mais pedidos, porcentagem de pedidos entregues, relação de pedidos entregues no prazo e atrasados).
 
-**Dataset:** É um conjunto de dados públicos de e-commerce brasileiro de pedidos feitos na Olist Store. O conjunto de dados tem informações de 100 mil pedidos de 2016 a 2018 feitos em vários marketplaces no Brasil. Dados foram extraídos do kaggle (https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce).
+**Dataset:** É um conjunto de dados públicos de e-commerce brasileiro de pedidos feitos na Olist Store. O conjunto de dados tem informações de 100 mil pedidos de 2016 a 2018 feitos em vários marketplaces no Brasil. Dados foram extraídos do Kaggle (https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce).
 
 **Ferramenta:** Power BI na criação do dashboard e o tratamento dos dados (ETL) no Power Query Editor, e análise e cálculos de dados usando fórmulas DAX.
 
