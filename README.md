@@ -23,7 +23,7 @@ A quantidade de clientes é 99 mil com uma receita bruta de R$ 15,84 milhões em
 
 Na análise logística de pedidos foram analisadas as seguintes variáveis: a porcentagem de pedidos entregues dentro do prazo e de pedidos cancelados e o tempo médio de entrega. Qual é a situação dos pedidos. Quantos pedidos foram entregues no prazo e quantos fora do prazo, a quantidade de pedidos analisados por mês, qual é o número de pedidos em relação ao estado. Com estas análises é possível ver como está a parte de entrega do e-commerce.
 
-Analisando os pedidos 92,85% das compras são entregues no prazo, o tempo médio de entrega é de 12 dias, e a taxa de pedidos cancelados é de 0,63%. Analisando no decorrer dos anos nota-se que a porcentagem de pedidos entregues no prazo está diminuindo. Em 2016 foi de 98,78%, em 2017 de 93,62% e em 2018 de 90,84%. Na situação de pedido temos que 96,478 mil pedidos já forma entregues, 1106 pedidos estão em percurso e 461 foram cancelados. E o estado que mais tem pedido é SP.
+Analisando os pedidos 92,85% das compras são entregues no prazo, o tempo médio de entrega é de 12 dias, e a taxa de pedidos cancelados é de 0,63%. Analisando no decorrer dos anos nota-se que a porcentagem de pedidos entregues no prazo está diminuindo. Em 2016 foi de 98,78%, em 2017 de 93,62% e em 2018 de 90,84%. Na situação de pedido temos que 96,478 mil pedidos já forma entregues, 1106 pedidos estão em percurso e 461 foram cancelados. E o estado que mais tem pedido é São Paulo.
 
 ![](dashboard2.PNG)
 
