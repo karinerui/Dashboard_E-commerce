@@ -15,9 +15,9 @@ Fazer a gestão financeira e de logística é necessária para manter uma empres
 
 **Resultados:** Para este problema da análise do e-commerce foram realizadas duas análises: financeira e de pedidos.
 
-Na análise financeira foram analisadas as seguintes variáveis: número de clientes, receita bruta, numero de pedidos, ticket médio, método de pagamento, faturamento por categoria, variação percentual mensal, faturamento mensal e por estado o faturamento total, ticket médio, frete médio e a porcentagem do faturamento.
+Na análise financeira foram analisadas as seguintes variáveis: número de clientes, receita bruta, numero de pedidos, ticket médio, método de pagamento, faturamento por categoria, variação percentual mensal, faturamento mensal. E por estado analisado o faturamento total, ticket médio, frete médio e a porcentagem do faturamento.
 
-A quantidade de clientes é 99 mil com uma receita bruta de R$ 15,84 milhões em 99 mil pedidos entre os anos de 2016 a 2018. O ticket médio por pedido é R$ 160,58. O método de pagamento mais usado é o cartão de crédito e a categoria com maior faturamento é de produtos de beleza e saúde. O maior faturamento mensal em 2017 é em novembro e o estado com maior faturamento é SP com ticket médio de R$ 145,77. A variação percentual mensal de 2017 mostra que os meses de abril, junho  e dezembro tem diminuição na receita.
+A quantidade de clientes é 99 mil com uma receita bruta de R$ 15,84 milhões em 99 mil pedidos entre os anos de 2016 a 2018. O ticket médio por pedido é R$ 160,58. O método de pagamento mais usado é o cartão de crédito e a categoria com maior faturamento é de produtos de beleza e saúde. O maior faturamento mensal em 2017 é em novembro e o estado com maior faturamento é São Paulo com ticket médio de R$ 145,77. A variação percentual mensal de 2017 mostra que os meses de abril, junho  e dezembro tem diminuição na receita.
 
 ![](dashboard1.PNG)
 
